@@ -16,5 +16,6 @@ class factorial
         System.out.println("Enter the number");
         int num=sc.nextInt();
         System.out.println(FindFactorial(num));
+        System.out.println("feature-a");
     }
 }
